@@ -1,0 +1,11 @@
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\bin\Debug\DatabaseCon.exe.config
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\bin\Debug\DatabaseCon.exe
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\bin\Debug\DatabaseCon.pdb
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\obj\Debug\DatabaseCon.csproj.AssemblyReference.cache
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\obj\Debug\DatabaseCon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\obj\Debug\DatabaseCon.Form1.resources
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\obj\Debug\DatabaseCon.Properties.Resources.resources
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\obj\Debug\DatabaseCon.csproj.GenerateResource.cache
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\obj\Debug\DatabaseCon.csproj.CoreCompileInputs.cache
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\obj\Debug\DatabaseCon.exe
+C:\Users\Bisrat\Desktop\Asiya\DatabaseCon\obj\Debug\DatabaseCon.pdb
